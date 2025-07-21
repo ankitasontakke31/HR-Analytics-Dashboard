@@ -15,7 +15,7 @@ This project presents a **Human Resource Analytics Dashboard** built using Micro
 - ✅ Promotions vs. Attrition Trends
 
 ## 🖼 Sample Dashboard
-![HR Dashboard](./HR_Dashboard_Ankita.png)
+![HR Dashboard](https://github.com/ankitasontakke31/HR-Analytics-Dashboard/blob/main/HR%20analytics%20dashboard.jpg)
 
 ## 👩‍💼 Created By
 - **Ankita Sontakke** – Aspiring Data Analyst  
